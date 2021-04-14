@@ -31,9 +31,10 @@ https://editor.p5js.org/ioalehandro/full/kcorBeZ1f
 
 
 **Demo6**
-
+https://editor.p5js.org/ioalehandro/full/NRjJPe4WC
 
 **Demo7**
+https://editor.p5js.org/ioalehandro/full/52wmsm-FZ
 
 **Demo8**
 https://editor.p5js.org/ioalehandro/full/Y1EFZRz_Z
